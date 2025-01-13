@@ -38,4 +38,4 @@ The project demonstrates the application of several machine learning techniques 
 
 ---
 
-For more details, check out the full [documentation](/Doc.pdf) and code within the repository.
+For more details, check out the full [documentation](./Doc.pdf) and code within the repository.
