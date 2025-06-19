@@ -1,2 +1,3 @@
 # Artificial-intelligence
-This repository contains assignments and projects completed as part of my Artificial Intelligence coursework. Each assignment is organized into its own folder with detailed instructions, code, and results.
+Welcome to my Artificial Intelligence Projects repository!
+Here you will find all the projects I have created related to Artificial Intelligence, showcasing my work and experiments in various AI fields and techniques..
